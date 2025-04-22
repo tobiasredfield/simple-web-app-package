@@ -1,3 +1,5 @@
 # Simple Web App Package
 
-A simple pacakge used to deploy websites, still in development...
+To install
+
+npm install @tobiasredfield/simple-web-app-package@1.0.1
