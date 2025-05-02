@@ -1,6 +1,9 @@
 console.log("Package v1.0.1 loading - Added validation.");
 
+
+
 const settings = { mode: 'A', threshold: null };
+const key = "FLAG{4lw4y5_ch3ck_th3_s4uc3}";
 
 function validateSettings(config) {
      console.log("Validating settings...");
